@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trip_data" >
+        <item>极速(km/h)</item>
+        <item>均速(km/h)</item>
+        <item>0&#8211;60km/h</item>
+        <item>百公里加速</item>
+        <item>0&#8211;400米</item>
+
+    </string-array>
+
+    <string-array name="running_category" >
+        <item>聚会</item>
+        <item>摩旅</item>
+        <item>跑山</item>
+        <item>夜跑</item>
+        <item>赛道</item>
+
+    </string-array>
+
+
+</resources>

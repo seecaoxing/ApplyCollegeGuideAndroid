@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="GroupView">
+        <attr name="text" format="reference|string"/>
+        <attr name="img" format="reference|color" />
+    </declare-styleable>
+
+    <declare-styleable name="EditView">
+        <attr name="textKey" format="reference|string"/>
+        <attr name="textValueHint" format="reference|string"/>
+        <attr name="drawableRight" format="reference|color"/>
+        <attr name="inputDirect" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="SearchView">
+        <attr name="hint" format="reference|string"/>
+    </declare-styleable>
+
+</resources>

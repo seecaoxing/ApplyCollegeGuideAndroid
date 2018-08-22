@@ -1,0 +1,16 @@
+ext {
+    //!--Android
+    androidVersionConfig = [
+            androidBuildToolsVersion    : '26.0.3', // as 2.23使用 '24.0.3',
+            androidMinSdkVersion        : 16,
+            androidTargetSdkVersion     : 26,
+            androidCompileSdkVersion    : 26,
+            versionCode                 : 1,
+            versionName                 : '1.0'
+    ]
+
+    //!--Libraries
+    libraries = [
+            supportlibVersion   : '26.1.0',
+    ]
+}

@@ -1,0 +1,122 @@
+<resources>
+
+    <dimen name="extra_top">0dp</dimen>
+    <!--很多地方需要1px的分割线-->
+    <dimen name="ds0.33">0.3333dip</dimen>
+    <dimen name="ds1">1dip</dimen>
+    <dimen name="ds2">2dip</dimen>
+    <dimen name="ds3">3dip</dimen>
+    <dimen name="ds4">4dip</dimen>
+    <dimen name="ds5">5dip</dimen>
+    <dimen name="ds6">6dip</dimen>
+    <dimen name="ds7">7dip</dimen>
+    <dimen name="ds8">8dip</dimen>
+    <dimen name="ds9">9dip</dimen>
+    <dimen name="ds10">10dip</dimen>
+    <dimen name="ds11">11dip</dimen>
+    <dimen name="ds12">12dip</dimen>
+    <dimen name="ds13">13dip</dimen>
+    <dimen name="ds14">14dip</dimen>
+    <dimen name="ds15">15dip</dimen>
+    <dimen name="ds16">16dip</dimen>
+    <dimen name="ds17">17dip</dimen>
+    <dimen name="ds18">18dip</dimen>
+    <dimen name="ds19">19dip</dimen>
+    <dimen name="ds20">20dip</dimen>
+    <dimen name="ds21">21dip</dimen>
+    <dimen name="ds22">22dip</dimen>
+    <dimen name="ds23">23dip</dimen>
+    <dimen name="ds24">24dip</dimen>
+    <dimen name="ds25">25dip</dimen>
+    <dimen name="ds26">26dip</dimen>
+    <dimen name="ds27">27dip</dimen>
+    <dimen name="ds28">28dip</dimen>
+    <dimen name="ds29">29dip</dimen>
+    <dimen name="ds30">30dip</dimen>
+    <dimen name="ds35">35dip</dimen>
+    <dimen name="ds38">38dip</dimen>
+    <dimen name="ds40">40dip</dimen>
+    <dimen name="ds41">41dip</dimen>
+    <dimen name="ds42">42dip</dimen>
+    <dimen name="ds43">43dip</dimen>
+    <dimen name="ds44">44dip</dimen>
+    <dimen name="ds48">48dip</dimen>
+    <dimen name="ds50">50dip</dimen>
+    <dimen name="ds51">51dip</dimen>
+    <dimen name="ds58">58dip</dimen>
+    <dimen name="ds63">63dip</dimen>
+    <dimen name="ds70">70dip</dimen>
+    <dimen name="ds88">88dip</dimen>
+    <dimen name="ds90">90dip</dimen>
+    <dimen name="ds104">104dip</dimen>
+    <dimen name="ds120">120dip</dimen>
+
+    <dimen name="ts1">1sp</dimen>
+    <dimen name="ts2">2sp</dimen>
+    <dimen name="ts3">3sp</dimen>
+    <dimen name="ts4">4sp</dimen>
+    <dimen name="ts5">5sp</dimen>
+    <dimen name="ts6">6sp</dimen>
+    <dimen name="ts7">7sp</dimen>
+    <dimen name="ts8">8sp</dimen>
+    <dimen name="ts9">9sp</dimen>
+    <dimen name="ts10">10sp</dimen>
+    <dimen name="ts11">11sp</dimen>
+    <dimen name="ts12">12sp</dimen>
+    <dimen name="ts13">13sp</dimen>
+    <dimen name="ts14">14sp</dimen>
+    <dimen name="ts15">15sp</dimen>
+    <dimen name="ts16">16sp</dimen>
+    <dimen name="ts17">17sp</dimen>
+    <dimen name="ts18">18sp</dimen>
+    <dimen name="ts19">19sp</dimen>
+    <dimen name="ts20">20sp</dimen>
+    <dimen name="ts21">21sp</dimen>
+    <dimen name="ts22">22sp</dimen>
+    <dimen name="ts23">23sp</dimen>
+    <dimen name="ts24">24sp</dimen>
+    <dimen name="ts25">25sp</dimen>
+    <dimen name="ts26">26sp</dimen>
+    <dimen name="ts28">28sp</dimen>
+    <dimen name="ts29">29sp</dimen>
+    <dimen name="ts30">30sp</dimen>
+    <dimen name="ts35">35sp</dimen>
+    <dimen name="ts38">38sp</dimen>
+    <dimen name="ts40">40sp</dimen>
+    <dimen name="ts41">41sp</dimen>
+    <dimen name="ts42">42sp</dimen>
+    <dimen name="ts43">43sp</dimen>
+    <dimen name="ts44">44sp</dimen>
+    <dimen name="ts48">48sp</dimen>
+    <dimen name="ts50">50sp</dimen>
+    <dimen name="ts51">51sp</dimen>
+    <dimen name="ts58">58sp</dimen>
+    <dimen name="ts63">63sp</dimen>
+    <dimen name="ts70">70sp</dimen>
+    <dimen name="ts88">88sp</dimen>
+    <dimen name="ts90">90sp</dimen>
+    <dimen name="ts104">104sp</dimen>
+
+
+    <dimen name="height_toolbar">44dp</dimen>
+
+    <!-- segment-->
+    <dimen name="radio_button_conner_radius">5dp</dimen>
+    <dimen name="radio_button_stroke_border">1px</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- 专家 -->
+    <dimen name="dimen_exp_profile_head">148dp</dimen>
+    <dimen name="dimen_toolbar_height">48dp</dimen>
+    <dimen name="dimen_exp_empty_recommend">220dip</dimen>
+    <dimen name="dimen_exp_parent_height">300dp</dimen>
+
+    <dimen name="dimen_show_coupon_height">355dp</dimen>
+    <dimen name="dimen_extra_odds_bg_height">55dp</dimen>
+    <dimen name="dimen_extra_odds_bg_width">332dp</dimen>
+    <dimen name="dimen_one_odd_width">47dp</dimen>
+    <dimen name="dimen_odd_comp_name">63dp</dimen>
+    <dimen name="dimen_odd_up_down_div">1dp</dimen>
+    <dimen name="common_navigator_height">30dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>

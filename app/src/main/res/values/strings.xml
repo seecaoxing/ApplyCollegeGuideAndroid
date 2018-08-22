@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">报考指南</string>
+    <string name="base_home_page">首页</string>
+    <string name="base_moments">摩友圈</string>
+    <string name="base_motortrip">MOTORTRIP</string>
+    <string name="base_mall">商城</string>
+    <string name="base_motobike_store">车库</string>
+    <string name="base_mine">我的</string>
+    <string name="base_destination">目的地</string>
+    <string name="follow">关注</string>
+    <string name="read_more">查看更多</string>
+
+    <!-- home -->
+    <string name="subject_recommend">主题推荐</string>
+    <string name="bag_group">精选锦囊</string>
+    <string name="travel_group">精选路书</string>
+    <string name="hot_moment">热门动态</string>
+    <string name="riding_star">骑行达人</string>
+    <string name="group_scenic">相关景点</string>
+    <string name="group_user">相关用户</string>
+
+    <string name="travel_recommend">摩嗨推荐路书</string>
+    <string name="molv_scenic">摩嗨人的景点</string>
+    <string name="hot_bag">热门锦囊</string>
+
+    <string name="filter">筛选</string>
+
+    <string name="search">搜索</string>
+    <string name="search_hint">请输入目的地／关键词</string>
+    <string name="search_hint_location">请输入地点</string>
+    <string name="search_empty">目前仅支持西藏与新疆两个省份的骑行咨询，后续省份正在建设中，敬请期待</string>
+    <string name="search_history">历史记录</string>
+    <string name="search_clear">清空</string>
+
+    <string name="journey_miles_format">里程：%s公里</string>
+
+    <!-- moments begin-->
+    <string name="moment_friend">好友动态</string>
+    <string name="moment_all">全部动态</string>
+    <string name="moment_more">查看更多</string>
+    <string name="order_nearby_person_format">附近有%d个摩友</string>
+    <string name="apply_ing">报名中</string>
+    <string name="apply_over">报名已结束</string>
+    <string name="apply_count_format">已报名人数%1$d/%2$d</string>
+    <string name="running_place_format">%1$s——%2$s</string>
+    <string name="running_time_format">开始时间：%s</string>
+    <string name="running_assemble_format">集合地点：%s</string>
+    <string name="running_initiate">发起约跑</string>
+    <string name="running_subject_input">请输入约跑主题</string>
+    <string name="running_type">约跑类型</string>
+    <string name="running_type_select">选择你的约跑类型</string>
+    <string name="next_step">下一步</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="publish">发布</string>
+    <!-- moments end-->
+
+    <!-- motor trip-->
+    <string name="trip_model_prefix">骑行车辆：%s</string>
+    <string name="trip_mills_total">总里程数（公里）</string>
+    <string name="trip_mills_ranking">全国排名</string>
+    <string name="trip_person_best">个人最佳成绩</string>
+    <string name="trip_mills">里程(km)</string>
+    <string name="trip_pause_auto">自动暂停中&#8230;</string>
+    <string name="trip_time_format">hh:mm:ss</string>
+    <string name="trip_add_motor">添加你的摩托车</string>
+    <string name="brand_select">选择品牌</string>
+    <string name="welcome_join">欢迎加入摩嗨中国</string>
+    <!-- home -->
+    <string name="open">打开GalleryPickDemo</string>
+
+    <string name="isMulSelect">是否开启多选（默认关闭）</string>
+    <string name="mulMaxSize">多选时可选图片的数量（默认数量：9）</string>
+    <string name="isShowCamera">是否开启相机（默认开启）</string>
+    <string name="isCrop">是否开启裁剪（默认关闭）</string>
+    <string name="Glide">Glide</string>
+    <string name="Fresco">Fresco</string>
+    <string name="Picasso">Picasso</string>
+    <string name="OpenCamera">直接开启相机</string>
+
+    <!-- running -->
+    <string name="city_key">要发布到的城市</string>
+    <string name="city_hint">选择城市</string>
+    <string name="location_key">集合地点</string>
+    <string name="location_hint">选择集合地点</string>
+    <string name="location_extra_key">地点信息补充</string>
+    <string name="location_extra_hint">例如地铁站2号口，可不填</string>
+    <string name="destination_key">目的地</string>
+    <string name="destination_hint">选择目的地</string>
+    <string name="collect_time_key">集合时间</string>
+    <string name="collect_time_hint">设定集合时间</string>
+    <string name="over_time_key">结束时间</string>
+    <string name="over_time_hint">设定结束时间</string>
+    <string name="register_deadline_key">报名截止时间</string>
+    <string name="register_deadline_hint">设定报名截止时间</string>
+    <string name="running_info_add">补充约跑信息（选填）</string>
+    <string name="running_number_key">约跑人数</string>
+    <string name="running_number_hint">默认对约跑人数无限定</string>
+    <string name="journey_key">添加路书</string>
+    <string name="journey_hint">添加路书</string>
+    <string name="detail_key">约跑详情</string>
+    <string name="detail_hint">请输入约跑的注意事项，是否需要AA等信息</string>
+    <string name="verify_key">需验证加入</string>
+    <string name="disclaimer_key">我已阅读免责声明</string>
+    <string name="tips_view">查看pdf</string>
+    <string name="summary">概述</string>
+    <string name="collect">收藏</string>
+    <string name="tips_detail">锦囊详情</string>
+
+    <!--目的地-->
+    <string name="destination_detail">目的地详情</string>
+    <string name="destination_collect">收藏</string>
+    <string name="destination_map">查看地图 ></string>
+
+    <!--路书详情-->
+    <string name="journey_detail_title">路书详情</string>
+    <string name="journey_detail_day">第%s天</string>
+    <string name="journey_detail_hour">用时%s小时</string>
+    <string name="journey_detail_mile">距离%skm</string>
+    <string name="journey_detail_follow">+关注</string>
+    <string name="journey_detail_total_distance">%s km</string>
+
+</resources>
