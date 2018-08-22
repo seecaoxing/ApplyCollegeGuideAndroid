@@ -14,7 +14,7 @@
         <!-- Inactive track color(30% transparency) -->
         <!--<item name="android:colorForeground">@color/text_green</item>-->
 
-        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="android:windowBackground">@color/theme_white</item>
     </style>
 
 

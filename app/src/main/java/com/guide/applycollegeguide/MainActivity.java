@@ -45,16 +45,16 @@ public class MainActivity extends BaseActivity {
             fragmentTabHost.addTab(tabSpec, MainTabHelper.getFragments()[i], null);
         }
 
-        fragmentTabHost.setOnBeforeTabChangeListener(new FragmentTabHost.OnBeforeTabChangeListener() {
-            @Override
-            public boolean beforeChanged(int index) {
-                if (index == MainTabHelper.getTabsTextId().length-1 && UserManager.getUserInfo(MainActivity.this) == null) {
-//                    LoginActivity.launch(MainActivity.this, null);
-                    return true;
-                }
-                return false;
-            }
-        });
+//        fragmentTabHost.setOnBeforeTabChangeListener(new FragmentTabHost.OnBeforeTabChangeListener() {
+//            @Override
+//            public boolean beforeChanged(int index) {
+//                if (index == MainTabHelper.getTabsTextId().length-1 && UserManager.getUserInfo(MainActivity.this) == null) {
+////                    LoginActivity.launch(MainActivity.this, null);
+//                    return true;
+//                }
+//                return false;
+//            }
+//        });
 
     }
 
